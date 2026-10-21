@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "bermuda",
+  "versions": [
+    {
+      "commit": "0bc26bac376d4f08a4964481d1f737f6deb86270",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:25:57.553634+00:00"
+    }
+  ]
+}
