@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "bermuda",
+  "versions": [
+    {
+      "commit": "0bc26bac376d4f08a4964481d1f737f6deb86270",
+      "parsed_at": "2026-10-21T22:23:58.730743+00:00",
+      "filetree": "filetree/0bc26bac376d4f08a4964481d1f737f6deb86270.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/4247f48b604b3266e1275af7b2726e5ce1f8fff2.nq.gz",
+        "blob/b616985678754ac20d25b88c375155b4e8fd271e.nq.gz",
+        "blob/8dedf326c8351e9a175aadaaf4e5c00e01f7b8c7.nq.gz",
+        "blob/df5ac96627e0b1c7a3335d449697aa481c74fde6.nq.gz",
+        "blob/51cbe85254929af8fd49313f8a53a5e2fdab1347.nq.gz",
+        "blob/0b7e90a5769d5e45dae418f0e034fd90269bdc99.nq.gz",
+        "blob/f4c47287903b7c2b21bb0a8ce79dbf75c98fcfb4.nq.gz",
+        "blob/8c7936f34badf732b9ccd13305cc42eaadae52ef.nq.gz",
+        "blob/488bab05f63072bda2febf3c3b9e1cc8f86f8ee6.nq.gz",
+        "blob/6a548bbb764aed051f286853f62d968fbc992574.nq.gz",
+        "blob/a7c8d5b5d388f20e75af07eb3cf668b8787596cc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
